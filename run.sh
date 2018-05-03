@@ -1,0 +1,1 @@
+g++ kdtree.cpp -o kdtree -std=c++11 -O3; ./kdtree $1 
